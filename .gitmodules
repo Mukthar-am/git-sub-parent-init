@@ -1,2 +1,5 @@
 [submodule "sub1"]
 	master = stable
+[submodule "git-sub-parent-init"]
+	path = git-sub-parent-init
+	url = https://github.com/Mukthar-am/git-sub-parent-init.git
